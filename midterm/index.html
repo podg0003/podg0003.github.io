@@ -4,18 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="index.css" rel="stylesheet">
     <title>Lone Starfish</title>
 </head>
 <body>
+    <div class="center">
     <header>
         <h1>Lone Starfish</h1>
         <img src="midterm-assets/lone-starfish-wide.jpg">
-        <ol>
-            <li>Home</li>
-            <li>Story</li>
-            <li>Contact</li>
-        </ol>
+        <nav role="navigation">
+        <ul>
+            <li>
+                <a href="">Home</a>
+            </li>
+            <li>
+                <a href="">Story</a>
+            </li>
+            <li>
+                <a href="">Contact</a>
+            </li>
+        </ul>
+        </nav>
     </header>
+    </div>
     <h2>
         Life of a Starfish
     </h2>
@@ -31,15 +42,34 @@
         <li> inventore velit dolores provident. Voluptatibus id odit nostrum</li>
         <li>Lorem ipsum dolor sit amet consectetur</li>
     </ul>
-    <h2>
+    <h3>
         Contact to learn more
-    </h2>
-    Your name<br>
-    Your email<br>
-    Your message<br>
-    Would you like to visit the Starfish?<br>
-    Yes No Maybe<br>
-    Send
+    </h3>
+    <h4>Your Name</h4>
+    <form>
+        <label for="fullname" Your Name></label>
+        <input id="fullname" type="text">
+  
+        <h4>Your Email</h4> 
+
+        <label for="email"Your Email></label>
+        <input id="email" type="email">
+
+    <h4>Your Message</h4>
+
+        <label for="message"Your Message></label>
+        <textarea id="message"Your Message></textarea>
+
+
+    <h3>Would you like to visit the Starfish?</h3>
+        <label for="yes">Yes</label>
+        <input type="radio" id="yes" name="starfish-answer">
+        <label for="no">No</label>
+        <input type="radio" id="no" name="starfish-answer">
+        <label for="maybe">Maybe</label>
+        <input type="radio" id="maybe" name="starfish-answer"><br>
+    <button type="submit">Send</button>
+    </form>
 </body>
 <footer>
     &copy; Lone Starfish.

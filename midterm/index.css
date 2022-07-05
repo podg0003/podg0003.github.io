@@ -1,0 +1,13 @@
+/* comment */
+body {
+    background-color:#aad4cf;
+}
+
+.center {
+    width:400 px;
+    margin:0 auto;
+}
+
+nav li{
+    display:inline;
+}
