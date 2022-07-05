@@ -9,7 +9,7 @@ img {
     margin-right: auto;
     width: 1000px;
 }
-
+/* makes the nav child list to be spaced horizontally on screen */
 nav li{
     display:inline;
     color:black;
@@ -17,7 +17,7 @@ nav li{
     font-size: 20px;
     padding:120px;
 }
-
+/* assures that all content is centered across the page */
 .box {
     width:1000px;
     border:0px;
@@ -25,18 +25,18 @@ nav li{
     margin:auto;
     background:#B8E6E0;
 }
-
+/* this container allows the small image and the paragraph to float together */
 .container{
     width:1000px;
     margin: 0 auto;
 }
-
+/* used for the smaller image of the starfish to evenly float with accompanying paragraph*/
 .small{
     width: 200px;
     float:left;
     padding:6px;
 }
-
+/* takes away the purple/blue action colours of links as well as the underline (to resemble the reference photo) */
 a:link, a:visited, a:hover, a:active {
     color:black;
     text-decoration: none;
@@ -52,7 +52,7 @@ a:link, a:visited, a:hover, a:active {
     margin: auto;
 
 }
-
+/* allows simplistic button appearance */
 button{
     background-color: #B8E6E0;
     color:black;
@@ -64,7 +64,7 @@ footer{
     text-align: right;
     padding-right: 20px;
 }
-
+/* ensures postion of header image and title*/
 .header{
     position:relative;
     text-align: center;
@@ -75,7 +75,7 @@ footer{
     position:absolute;
     font-size: 50px;
     top: 50%;
-    bottome:50%;
+    bottom:50%;
     left:35%;
     transform:(-50%,-50%);
     text-align: center;
