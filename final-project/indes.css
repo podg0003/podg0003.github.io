@@ -40,7 +40,7 @@ a:link, a:visited, a:hover, a:active {
 
 /*about us*/
 .about img{
-    display:block;
+    display:flex;
     max-width: 100%;
     height:auto;
     float:left;
