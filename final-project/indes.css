@@ -2,6 +2,9 @@ header{
     background-color:#BD8D30;
 }
 
+body{
+    margin:auto;
+}
 
 /*nav section*/
 nav{
