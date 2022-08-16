@@ -7,19 +7,19 @@ body{
 }
 .welcome{
     position:absolute;
-    background:rgba(0, 0, 0, 0.5);
-    color:white;
+    /*background:rgba(0, 0, 0, 0.5);
+    color:white;*/
     width:100%;
     padding:20px;
 }
-/*
+
 .welcome img{
     display: block;
     max-width: 100%;
     height:auto;
     margin: 0 auto;
  }
-*/
+
 /*nav section*/
 
 ul{
