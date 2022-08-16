@@ -19,9 +19,14 @@ body{
     height:auto;
  }*/
 
+ .highlight{
+    background-color:#BD8D30;
+    color:#212121
+}
  .welcome{
     display:flex;
     flex-direction: column;
+
     text-align: left;
 }
 
@@ -55,11 +60,6 @@ a:link, a:visited, a:hover, a:active {
     padding:10px;
     margin:auto;
 }*/
-
-.highlight{
-    background-color:#BD8D30;
-    color:#212121
-}
 
 
 
