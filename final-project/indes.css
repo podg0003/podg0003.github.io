@@ -60,7 +60,9 @@ a:link, a:visited, a:hover, a:active {
 button{
     background-color: #212121;
     color:white;
-    font-size: 15px;
+    font-size: 25px;
+    width:25%;
+    
 }
 .digital{
     display:flex;
