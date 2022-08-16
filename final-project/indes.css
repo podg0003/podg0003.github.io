@@ -64,7 +64,6 @@ a:link, a:visited, a:hover, a:active {
     display:flex;
     max-width: 100%;
     height:auto;
-    float:left;
 }
 
 button{
