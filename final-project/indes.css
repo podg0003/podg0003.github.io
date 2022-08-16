@@ -39,7 +39,8 @@ a:link, a:visited, a:hover, a:active {
 
 /*about us*/
 .about img{
-    display:flex;
+    display:block;
+    height:auto;
     float:left;
 }
 .about{
