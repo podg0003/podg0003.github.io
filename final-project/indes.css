@@ -42,4 +42,6 @@ a:link, a:visited, a:hover, a:active {
 about us .container {
     display:flex;
     background-color:#ffe6ac;
+    width:1000px;
+    margin: 0 auto;
 }
