@@ -1,5 +1,6 @@
 /*nav section*/
 nav{
+    display:inline;
     background-color: #212121;
     margin:auto;
 }
