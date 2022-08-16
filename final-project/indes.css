@@ -6,6 +6,10 @@ body{
     margin:auto;
 }
 
+.welcome{
+    max-width: 100%;
+    height:auto;
+ }
 img{
     max-width: 100%;
     height:auto;
@@ -29,9 +33,7 @@ nav{
     background-color:#BD8D30;
 }
 
-.welcome{
-   position:absolute;
-}
+
 
 /*about us*/
 
