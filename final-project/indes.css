@@ -18,7 +18,6 @@ body{
     display: block;
     max-width: 100%;
     height:auto;
-    margin: 0 auto;
  }
 
 /*nav section*/
@@ -75,7 +74,7 @@ button{
     background-color: #212121;
     color:white;
     font-size: 15px;
-    width:75px;
+    width:100px;
     padding:20px;
 
 }
