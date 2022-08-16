@@ -40,10 +40,11 @@ a:link, a:visited, a:hover, a:active {
 /*about us*/
 .about img{
     display:flex;
-    float: left;
+    float:left;
 }
 .about{
     display:flex;
     background-color:#ffe6ac;
     text-align: center;
+    clear:left;
 }
