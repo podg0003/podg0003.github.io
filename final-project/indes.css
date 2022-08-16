@@ -43,10 +43,10 @@ a:link, a:visited, a:hover, a:active {
     display:flex;
     flex-direction: column;
     background-color:#ffe6ac;
-    text-align: center;
+    text-align: left;
     clear:left;
     border: 15px;
-    text-align: left;
+    
 }
 .about img{
     display:flex;
@@ -54,4 +54,16 @@ a:link, a:visited, a:hover, a:active {
     height:auto;
     float:left;
     
+}
+.digital{
+    display:flex;
+    flex-direction: column;
+    background-color:#ffe6ac;
+    text-align: left;
+}
+
+.digital img{
+    display:flex;
+    max-width: 100%;
+    height:auto;
 }
