@@ -20,6 +20,11 @@ body{
 
 /*nav section*/
 
+.highlight{
+    background-color:#BD8D30;
+    color:#212121
+}
+
 ul{
     list-style-type: none;
     background-color: #212121;
@@ -43,10 +48,7 @@ a:link, a:visited, a:hover, a:active {
     margin:auto;
 }
 
-.highlight{
-    background-color:#BD8D30;
-    color:#212121
-}
+
 
 
 
