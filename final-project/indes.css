@@ -21,12 +21,16 @@ body{
  }
 */
 /*nav section*/
+
+ul{
+    list-style-type: none;
+}
+
 nav{
     display:inline;
     background-color: #212121;
     text-align: center;
     margin:auto;
-    list-style-type: none;
 }
 a:link, a:visited, a:hover, a:active {
     color:black;
