@@ -1,5 +1,8 @@
 /*nav section*/
-nav{
+nav li:nth-child(2),
+nav li:nth-child(3),
+nav li:nth-child(4),
+nav li:nth-child(5){
     display:inline;
     background-color: #212121;
     margin:auto;
@@ -14,6 +17,6 @@ img{
 
 /*about us*/
 
-.container{
+about us .container {
     display:flex;
 }
