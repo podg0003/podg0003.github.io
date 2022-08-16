@@ -39,7 +39,7 @@ a:link, a:visited, a:hover, a:active {
 
 /*about us*/
 
-.about-us{
+.about{
     display:flex;
     background-color:#ffe6ac;
 }
