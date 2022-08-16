@@ -10,6 +10,10 @@ nav{
     margin:auto;
 }
 
+.highlight{
+    background-color:BD8D30;
+}
+
 img{
     position:absolute;
     background-size: 100% 100%;
