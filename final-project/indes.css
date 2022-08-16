@@ -24,6 +24,8 @@ body{
 
 ul{
     list-style-type: none;
+    background-color: #212121;
+    color: #BD8D30;
 }
 
 nav{
