@@ -4,10 +4,9 @@ header{
 
 body{
     margin:auto;
-    background-color: white;
 }
 
-img{
+.welcome img{
     position: absolute;
     max-width: 100%;
     height:auto;
