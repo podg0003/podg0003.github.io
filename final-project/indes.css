@@ -16,6 +16,7 @@ body{
     display: block;
     max-width: 100%;
     height:auto;
+    margin: 0 auto;
  }
 
 /*nav section*/
@@ -67,7 +68,7 @@ button{
     background-color: #212121;
     color:white;
     font-size: 15px;
-    width:30%;
+    width:35px;
 
 }
 .digital{
