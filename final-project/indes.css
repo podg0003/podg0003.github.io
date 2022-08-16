@@ -40,7 +40,7 @@ a:link, a:visited, a:hover, a:active {
 /*about us*/
 .about img{
     display:block;
-    max-width: 30%;
+    max-width: 100%;
     height:auto;
     float:left;
 }
@@ -49,4 +49,5 @@ a:link, a:visited, a:hover, a:active {
     background-color:#ffe6ac;
     text-align: center;
     clear:left;
+    border: 15px;
 }
