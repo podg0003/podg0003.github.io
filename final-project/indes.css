@@ -6,7 +6,15 @@ header{
 /*nav section*/
 nav{
     display:inline;
-    background-color: #212121;
+    color: #212121;
+    text-align: center;
+    margin:auto;
+}
+
+.box{
+    width:1000px;
+    border:0px;
+    padding:10px;
     margin:auto;
 }
 
@@ -15,8 +23,7 @@ nav{
 }
 
 .welcome{
-  
-        position:absolute;
+   position:absolute;
 }
 
 /*about us*/
