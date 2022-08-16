@@ -5,13 +5,13 @@ header{
 body{
     margin:auto;
 }
-/*
+
 .welcome{
     position:absolute;
     width:100%;
     text-align: left;
 }
-
+/*
 .welcome img{
     display:flex;
     max-width: 100%;
