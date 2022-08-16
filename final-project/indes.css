@@ -14,10 +14,9 @@ nav{
     background-color:BD8D30;
 }
 
-.welcome img{
+.welcome{
   
         position:absolute;
-        background-size: 100% 100%;
 }
 
 /*about us*/
