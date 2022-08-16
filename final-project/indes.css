@@ -67,5 +67,56 @@ a:link, a:visited, a:hover, a:active {
     display:flex;
     max-width: 100%;
     height:auto;
-    border-top: 10px;
+}
+
+.marketing{
+    display:flex;
+    flex-direction: column;
+    background-color:#ffe6ac;
+    text-align: left;
+}
+
+.marketing img{
+    display:flex;
+    max-width: 100%;
+    height:auto;
+}
+
+.video{
+    display:flex;
+    flex-direction: column;
+    background-color:#ffe6ac;
+    text-align: left;
+}
+
+.video img{
+    display:flex;
+    max-width: 100%;
+    height:auto;
+}
+
+.web{
+    display:flex;
+    flex-direction: column;
+    background-color:#ffe6ac;
+    text-align: left;
+}
+
+.web img{
+    display:flex;
+    max-width: 100%;
+    height:auto;
+}
+
+.print{
+    display:flex;
+    flex-direction: column;
+    background-color:#ffe6ac;
+    text-align: left;
+}
+
+.print img{
+    display:flex;
+    max-width: 100%;
+    height:auto;
 }
