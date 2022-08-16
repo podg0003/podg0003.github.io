@@ -5,7 +5,13 @@ header{
 body{
     margin:auto;
 }
-
+.welcome{
+    position:absolute;
+    background:rgba(0, 0, 0, 0.5);
+    color:white;
+    width:100%;
+    padding:20px;
+}
 .welcome img{
     display: block;
     max-width: 100%;
@@ -60,9 +66,9 @@ a:link, a:visited, a:hover, a:active {
 button{
     background-color: #212121;
     color:white;
-    font-size: 25px;
-    width:25%;
-    
+    font-size: 15px;
+    width:30%;
+
 }
 .digital{
     display:flex;
