@@ -179,3 +179,6 @@ table, th, td{
     border:1px solid;
 }
 
+table, th{
+    background-color: #ffe6ac;
+}
