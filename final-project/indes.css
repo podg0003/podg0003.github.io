@@ -56,6 +56,12 @@ a:link, a:visited, a:hover, a:active {
     border-top: 10px;
     
 }
+
+button{
+    background-color: #212121;
+    color:white;
+    font-size: 15px;
+}
 .digital{
     display:flex;
     flex-direction: column;
