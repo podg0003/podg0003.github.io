@@ -140,3 +140,30 @@ button{
 .vision{
 
 }
+*/
+
+.john{
+    display:flex;
+    flex-direction: column;
+    background-color:#ffe6ac;
+    text-align: left;
+}
+
+.john img{
+    display:flex;
+    max-width: 100%;
+    height:auto;
+}
+
+.bob{
+    display:flex;
+    flex-direction: column;
+    background-color:#ffe6ac;
+    text-align: left;
+}
+
+.bob img{
+    display:flex;
+    max-width: 100%;
+    height:auto;
+}
