@@ -19,7 +19,19 @@ body{
     height:auto;
  }*/
 
+ .welcome{
+    display:flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.welcome img{
+    display:flex;
+    max-width: 100%;
+    height:auto;
+}
 /*nav section*/
+
 
 ul{
     list-style-type: none;
