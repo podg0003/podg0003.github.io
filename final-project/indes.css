@@ -5,14 +5,13 @@ header{
 body{
     margin:auto;
 }
-/*
+
 .welcome{
     position:absolute;
-  
     width:100%;
     text-align: left;
 }
-
+/*
 .welcome img{
     display: block;
     max-width: 100%;
@@ -46,6 +45,7 @@ a:link, a:visited, a:hover, a:active {
 
 .highlight{
     background-color:#BD8D30;
+    color:#212121
 }
 
 
